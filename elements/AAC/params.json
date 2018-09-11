@@ -1,0 +1,45 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 240,
+        "width": 640
+    },
+    "display": "InterviewVideosReplay",
+    "edit_mode_image": "//s3.amazonaws.com/appforest_uf/f1526375555087x782901735510677100/reset-success.png",
+    "fields": {
+        "AAS": {
+            "caption": "leftVideoWidth",
+            "default_val": "320",
+            "editor": "StaticText",
+            "name": "leftvideowidth",
+            "rank": 0
+        },
+        "AAT": {
+            "caption": "leftvideoheight",
+            "default_val": "240",
+            "editor": "StaticText",
+            "name": "leftvideoheight",
+            "rank": 1
+        },
+        "AAU": {
+            "caption": "rightvideowidth",
+            "default_val": "320",
+            "editor": "StaticText",
+            "name": "rightvideowidth",
+            "rank": 2
+        },
+        "AAV": {
+            "caption": "rightvideoheight",
+            "default_val": "240",
+            "editor": "StaticText",
+            "name": "rightvideoheight",
+            "rank": 3
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    }
+}

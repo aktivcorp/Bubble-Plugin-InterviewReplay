@@ -1,0 +1,29 @@
+{
+    "caption": "getLists",
+    "fields": {
+        "AAM": {
+            "caption": "recordfiles",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "recordfiles",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAN": {
+            "caption": "timestamps",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "timestamps",
+            "rank": 1,
+            "value": "date"
+        },
+        "AAO": {
+            "caption": "owners",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "owners",
+            "rank": 2,
+            "value": "text"
+        }
+    }
+}

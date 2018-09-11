@@ -1,0 +1,23 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 50,
+        "width": 50
+    },
+    "display": "InterviewVideoCheck",
+    "edit_mode_image": "//s3.amazonaws.com/appforest_uf/f1534132559130x435983705800026600/reset-success.png",
+    "fields": {
+        "AAX": {
+            "caption": "recordFile",
+            "editor": "DynamicValue",
+            "name": "recordfile",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-film-marker",
+    "property_applications": {
+        "resizable": true
+    }
+}
